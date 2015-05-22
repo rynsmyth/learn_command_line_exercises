@@ -1,6 +1,6 @@
-#H1 Chapter 2
+# Chapter 2
 
-#H3 Explain the process of the alternative "english" questions
+### Explain the process of the alternative "english" questions
 
 > 1) What directory are you in?
 
@@ -27,7 +27,7 @@ I ran `pwd` and it shows that I am in the following directory:
 `/Users/ryansmyth/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_2`
 
 
-#H3 Explain the process for finding the path with your graphical file browser.
+### Explain the process for finding the path with your graphical file browser.
 
 First I would `click` on and open finder via the finder icon in my dock.
 
