@@ -6,9 +6,9 @@
 
 ### Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
 
-`$cp ex12.txt ~/Desktop/`
+`tmp$cp ex12.txt chapter_12/`
 
-`$cd ~/Desktop`
+`tmp$cd ..`
 
 `$mine ex12.txt`
 
