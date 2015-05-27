@@ -81,3 +81,6 @@ I ran the following command while in the slash temp directory and it returned th
 
 `log`
 
+## *Pivotal Tracker* - What command would you run to see all the files in that directory?
+
+`$ls -R tmp`
