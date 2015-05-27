@@ -19,9 +19,25 @@
 
 `cd ~/Documents`
 
+**File Browser**
+
+`click` on the Finder icon in the dock.
+
+`click` on `ryansmyth` 
+
+`click` on `Documents` folder
+
 ### cd to your Downloads directory, then find it with your file browser.
 
 `cd ~/Downloads`
+
+**File Browser**
+
+`click` on the Finder icon in the dock.
+
+`click` on `ryansmyth` 
+
+`click` on `Downloads` folder
 
 ### Find another directory with your file browser, then cd to it.
 
@@ -60,3 +76,7 @@ Yes I can by running the following command:
 ### What does ..argument to cd do? Explain it in the readme.md.
 
 It moves you up one level in the directory tree.
+
+## *Pivotal Tracker - Please go into the temp directory.
+
+`$cd tmp`
