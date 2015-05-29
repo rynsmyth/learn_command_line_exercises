@@ -39,13 +39,17 @@ drwxr-xr-x  2 ryansmyth  staff  68 May 23 19:28 john
 
 ### What's in the tmp directory?
 
-I ran `ls` while in the temp directory and it returned that the **stuff** directory is in it.
+To view what is in my temp directory I would run the command:
+
+`$ls tmp/`
 
 ### Can you show me what files are in that directory?
 
 There are no files in `~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_6/tmp`
 
 ### What files are in your home directory?
+
+`$ls ~`
 
 There are no files in my home directory just the following directories:
 
@@ -71,7 +75,7 @@ There are no files in my home directory just the following directories:
 
 I ran the following command while in the slash temp directory and it returned the following:
 
-`Ryan-Smyths-MacBook-Pro:tmp ryansmyth$ ls`
+`Ryan-Smyths-MacBook-Pro:tmp ryansmyth$ ls` or `$ls /tmp`
 
 `KSOutOfProcessFetcher.501.qQkpPp2uZLdVc5pukHmfJMR4bkM=`
 
@@ -83,4 +87,4 @@ I ran the following command while in the slash temp directory and it returned th
 
 ## *Pivotal Tracker* - What command would you run to see all the files in that directory?
 
-`$ls -R tmp`
+`$ls -R /tmp`
