@@ -6,7 +6,7 @@
 
 ### Copy a file to your home directory or desktop
 
-`$cp awesome.txt Desktop/`
+`$cp awesome.txt ~/Desktop/`
 
 # Alternative "english" ways of asking you to copy a file
 
