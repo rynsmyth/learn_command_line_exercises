@@ -20,9 +20,9 @@ Yes by running the following command:
 
 Yes by running the following command:
 
-`$mv log/production.log ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_11/tmp/`
+`$mv log/production.log /tmp`
 
 
 ### Can zero out that file?
 
-`$echo -n > ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_11/tmp/`
+`$echo ' ' > /tmp/`
