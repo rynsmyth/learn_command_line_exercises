@@ -24,7 +24,7 @@ Yes I can by running the following command:
 
 Which returns the following:
 
-`$cat /.bash-profile`
+`$cat /.bash_profile`
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
