@@ -25,4 +25,4 @@ Yes by running the following command:
 
 ### Can zero out that file?
 
-`$echo ' ' > /tmp/`
+`$echo ' ' > /tmp/production.log`
