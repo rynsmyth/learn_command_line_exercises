@@ -38,13 +38,7 @@ Yes by running the following command:
 
 I would run the following command:
 
-`$ls /tmp/*txt`
 
-Which returns the following:
-
-`/tmp/foo.txt`
-
-Or:
 
 `$cat /tmp/*.txt`
 
