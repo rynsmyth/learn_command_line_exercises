@@ -2,7 +2,7 @@
 
 ### Use the cp -r command to copy more directories with files in them.
 
-`$cp -r awesome.txt that/`
+`$cp -r something/ that/`
 
 ### Copy a file to your home directory or desktop
 
@@ -20,11 +20,11 @@ Yes I can by running the following command:
 
 Yes I can by running the following command:
 
-`$cp .bash_profile /workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10`
+`$cp /.bash_profile .`
 
 Which returns the following:
 
-`$cat .bash-profile`
+`$cat /.bash-profile`
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
