@@ -20,11 +20,11 @@ Yes I can by running the following command:
 
 Yes I can by running the following command:
 
-`$cp /.bash_profile .`
+`$cp ~/.bash_profile .`
 
 Which returns the following:
 
-`$cat /.bash_profile`
+`$cat ~/.bash_profile`
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
